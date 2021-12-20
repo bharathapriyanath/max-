@@ -5,7 +5,7 @@ bot
                         
  <h1>👑MAX👑<h1>
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/gMZTJD5/20211217-172210.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="https://i.ibb.co/gMZTJD5/20211217-172210.jpg" width="370" height="370"/>
   <p align="center">
 <a href="#"><img title="max" src="https://img.shields.io/badge/bharathapriyanath-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
