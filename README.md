@@ -3,7 +3,7 @@ bot
 ## Thanks for Everything 
 ### We will always remember you..
                         
-          <h1>👑MAX👑<h1>
+     <h1>👑MAX👑<h1>
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/gMZTJD5/20211217-172210.jpg" width="170" height="170"/>
   <p align="center">
